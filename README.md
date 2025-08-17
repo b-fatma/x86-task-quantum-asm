@@ -1,4 +1,4 @@
-# Computer Organization Project: x86 Quantum Implementation
+# Computer Architecture Project: x86 Quantum Implementation
 
 This project explores two methods for implementing a time quantum in task scheduling on microprocessors, in assembly:
 
